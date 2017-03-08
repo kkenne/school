@@ -1,0 +1,120 @@
+/*** sectioning elements ***/
+
+body {
+  background-color: #ee79c0;
+font-family: allegro;
+
+}
+
+header {
+font-family: ;
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+font-family: fantasy;
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+
+}
+
+h2 {
+text-decoration: underline;
+font-weight: bold;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+/* navbar */
